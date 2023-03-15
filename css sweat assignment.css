@@ -1,0 +1,13 @@
+body {
+    background: linear-gradient(to bottom, #FFC0CB, #FF69B4, #FF1493);
+    /* Use a linear gradient with three colors to create a colorful background */
+  }
+  
+  h1 {
+    color: white;
+    /* Set the text color to white to ensure readability on the colorful background */
+    text-align: center;
+    font-size: 3rem;
+    /* Increase the font size for the header to make it stand out */
+  }
+  
